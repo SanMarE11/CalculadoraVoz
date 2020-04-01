@@ -1,6 +1,6 @@
 # CalculadoraVoz
 #Autor: SanMarE11
-Calculadora que funciona a travez de la voz
+\nCalculadora que funciona a travez de la voz
 Utiliza las librerias de TalkingJavaSDK solo basta con decir un numero por numero
 0:Cero
 1:Uno
